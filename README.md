@@ -9,13 +9,6 @@ npm install
 npm run serve
 ```
 
-## Demo 
-![Finished Project] 
-
-
-https://user-images.githubusercontent.com/67041680/187288093-e0474fd8-a0d5-4648-9824-48dc7db7a714.mp4
-
-
 ## Lets Connect
 
 **Sneha Bhatnagar**
